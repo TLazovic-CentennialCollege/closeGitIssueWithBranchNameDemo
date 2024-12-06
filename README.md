@@ -1,2 +1,2 @@
 # closeGitIssueWithBranchNameDemo
-Good Luck!
+1
